@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yadavvishal0501
 - 👀 I’m interested in web development and machine learning.
 - 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on java project.
+- 💞️ I’m looking to collaborate on web development project.
 - 📫 How to reach me email vy20011945@gmail.com
 
 <!---
